@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TrianglesApp/TriangleAppTests/bin/Debug/net7.0
+/TrianglesApp/TriangleAppTests/obj
+/TrianglesApp/TrianglesApp/bin/Debug/net7.0
+/TrianglesApp/TrianglesApp/obj
+/TrianglesApp/.vs
